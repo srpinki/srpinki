@@ -45,7 +45,8 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=srpinki&show_icons=true&theme=default" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.vercel.app?user=srpinki&theme=default" alt="GitHub Streak" />
+
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srpinki&" alt="srpinki" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srpinki&layout=compact" alt="Top Languages" />
 </p>
 
