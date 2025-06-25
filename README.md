@@ -19,7 +19,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srpinki&label=Profile%20views&color=0e75b6&style=flat" alt="srpinki" /> </p>
 
 ### 🏆 GitHub Trophies
-<p align="left margin-left: 4px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srpinki" alt="srpinki" /></a> </p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=srpinki&margin-w=20&margin-h=20" alt="srpinki" />
+  </a>
+</p>
 
 ---
 
