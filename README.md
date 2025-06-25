@@ -8,19 +8,28 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srpinki" alt="srpinki" /></a> </p>
 
-- 🔭 I’m currently working on **Dtgproducts**
+### 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **JavaScript**
+I’m a passionate and creative Web Developer skilled in front-end technologies. I love turning ideas into clean, responsive, and dynamic websites.
 
-- 💬 Ask me about **Wordpress, eCommerce**
+- 🔭 I’m currently working on a tourism website using React and Tailwind CSS.
+- 🌱 I’m exploring **Next.js** and advanced MongoDB features.
+- 💡 Always excited to learn and build something meaningful!
 
-- 📫 How to reach me **pinkibiswasit@gmail.com**
+---
 
-- ⚡ Fun fact **I think I am funny**
+### 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/srpinki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srpinki" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/DaisyUI-FF69B4?style=flat&logo=tailwind-css&logoColor=white" alt="DaisyUI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
