@@ -10,11 +10,12 @@
 
 
  🔭 I’m currently working on a tourism website using React and Tailwind CSS.       
- 🌱 I’m exploring **Next.js** and advanced MongoDB features.      
+ 🌱 I’m exploring **Next.js** and advanced MongoDB features.   
+ 🎨 UI/UX improvement with Tailwind CSS & Framer Motion   
  💡 Always excited to learn and build something meaningful!
 
 ---
-
+### 🏆 GitHub Trophies
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srpinki&label=Profile%20views&color=0e75b6&style=flat" alt="srpinki" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srpinki" alt="srpinki" /></a> </p>
