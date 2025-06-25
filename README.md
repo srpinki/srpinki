@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner]([https://your-image-link.com/banner.jpg](https://github.com/srpinki/assignment-1/blob/main/Digital%20Web%20Design.png))
+![Banner](https://raw.githubusercontent.com/srpinki/assignment-1/main/Digital%20Web%20Design.png)
 
 <h1 align="center">Hi 👋, I'm Pinki Biswas</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
