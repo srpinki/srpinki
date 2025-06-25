@@ -55,10 +55,13 @@
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srpinki&show_icons=true&locale=en&layout=compact" alt="srpinki" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srpinki&layout=compact&show_icons=true&locale=en" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=srpinki&show_icons=true&locale=en" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.demolab.com?user=srpinki" alt="GitHub Streak" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srpinki&show_icons=true&locale=en" alt="srpinki" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srpinki&" alt="srpinki" /></p>
 
 
