@@ -9,8 +9,8 @@
  I’m a passionate Web Developer with hands-on experience in building responsive, user-friendly websites using modern technologies like HTML5, CSS3, Tailwind CSS, JavaScript, and React.js. I also work with Node.js and MongoDB to build web applications. I enjoy turning ideas into real-world solutions.
 
 
- 🔭 I’m currently working on a tourism website using React and Tailwind CSS.
- 🌱 I’m exploring **Next.js** and advanced MongoDB features.
+ 🔭 I’m currently working on a tourism website using React and Tailwind CSS.       
+ 🌱 I’m exploring **Next.js** and advanced MongoDB features.      
  💡 Always excited to learn and build something meaningful!
 
 ---
