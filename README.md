@@ -55,7 +55,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srpinki&layout=compact&show_icons=true&locale=en" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=srpinki&show_icons=true&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=srpinki" alt="GitHub Streak" />
