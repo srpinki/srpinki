@@ -1,5 +1,5 @@
-<!-- Banner Image -->
-![Banner](https://raw.githubusercontent.com/srpinki/assignment-1/main/Digital%20Web%20Design.png)
+<!-- Banner Image with 100% Width -->
+<img src="https://raw.githubusercontent.com/srpinki/assignment-1/main/Digital%20Web%20Design.png" alt="Banner" style="width:100%;" />
 
 <h1 align="center">Hi 👋, I'm Pinki Biswas</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
