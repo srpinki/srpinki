@@ -9,9 +9,9 @@
  I’m a passionate Web Developer with hands-on experience in building responsive, user-friendly websites using modern technologies like HTML5, CSS3, Tailwind CSS, JavaScript, and React.js. I also work with Node.js and MongoDB to build web applications. I enjoy turning ideas into real-world solutions.
 
 
-- 🔭 I’m currently working on a tourism website using React and Tailwind CSS.
-- 🌱 I’m exploring **Next.js** and advanced MongoDB features.
-- 💡 Always excited to learn and build something meaningful!
+ 🔭 I’m currently working on a tourism website using React and Tailwind CSS.
+ 🌱 I’m exploring **Next.js** and advanced MongoDB features.
+ 💡 Always excited to learn and build something meaningful!
 
 ---
 
@@ -27,6 +27,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress"/>
+</p>
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/yourusername)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=srpinki&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srpinki&" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srpinki&layout=compact" alt="Top Languages" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
