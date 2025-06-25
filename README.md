@@ -60,8 +60,9 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=srpinki&show_icons=true&locale=en" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.demolab.com?user=srpinki" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=srpinki" alt="GitHub Streak" />
 </p>
+
 
 
 
